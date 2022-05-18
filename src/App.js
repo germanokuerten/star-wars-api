@@ -7,6 +7,7 @@ import { useState, useEffect } from "react"
 
 import Header from "./components/Header"
 import Body from './components/Body';
+import Background from './components/Background';
 
 
 /////////////////////
@@ -58,10 +59,14 @@ function App() {
     
     return (
       <>
+      
       <Header/>
+      <Background/>
+      
       <div className='cards-container'>
       {allStarshipData}
       </div>
+      
       </>
     )
 

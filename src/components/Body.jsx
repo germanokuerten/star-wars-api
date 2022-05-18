@@ -4,15 +4,12 @@ function Body (props) {
     return (
         <>
         <div className="body">
-        
             <div className="container">
-                <div className="flip-card">
-                    
+                <div className="flip-card">           
                     <div class="flip-card-inner">
                         <div class="flip-card-front">
                             <h1>{props.name}</h1>
-                        </div>
-                        
+                        </div>                  
                         <div className="flip-card-back">
                             <h3>Manufacturer: {props.manufacturer}</h3>
                             <p>Cargo Passengers: {props.passengers}</p>
@@ -20,7 +17,7 @@ function Body (props) {
                         </div>
                     </div>
                 </div>  
-            </div>
+            </div>          
         </div>
         </>
     )
