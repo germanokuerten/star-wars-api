@@ -1,7 +1,5 @@
 import "./header.scss"
 
-
-
 function Header (props) {
     return (
         <div className="title-everything">
