@@ -50,7 +50,6 @@ function App() {
           manufacturer={eachShip.manufacturer}  
           starship_class={eachShip.starship_class}
           key={index}/>
-        
       )
     })
       
@@ -59,7 +58,6 @@ function App() {
     
     return (
       <>
-      
       <Header/>
       <Background/>
       
@@ -69,9 +67,6 @@ function App() {
       
       </>
     )
-
-    
-    
 }
     
 
