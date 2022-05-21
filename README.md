@@ -1,1 +1,1 @@
-# star-wars-api
+# star-wars-starships
