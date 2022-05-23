@@ -1,7 +1,7 @@
-# [Star-Wars-Starships](https://gk-star-wars-starships.herokuapp.com/)
+# [Star Wars Starships](https://gk-star-wars-starships.herokuapp.com/)
 <!-- (https://ondarox-manager.herokuapp.com/) -->
 
-A Star Wars Starships Landing Page with custom CSS animation and a 3rd party API.
+A Star Wars Starships Landing Page with custom CSS animation and a 3rd party API fetch.
 
 ## Technologies
 
@@ -29,7 +29,7 @@ Starships Info            |
 | Field | Detail |
 |-------|--------|
 | App Name | Star Wars Starships |
-| Description | A Star Wars Starships Landing Page with custom CSS animation and a 3rd party API |
+| Description | A Star Wars Starships Landing Page with custom CSS animation and a 3rd party API fetch |
 | Live Website | https://gk-star-wars-starships.herokuapp.com/ |
 | Repo | https://github.com/germanokuerten/star-wars-api |
 
