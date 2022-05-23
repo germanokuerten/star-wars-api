@@ -15,11 +15,14 @@ A Star Wars Starships Landing Page with custom CSS animation and a 3rd party API
 - Swapi.dev API
 
 ## UI Screenshots
- 
+
+Opening            | 
 :-------------------------:|
 ![](./public/StarWarsAPI-1.png)  |
+
+Starships Info            | 
+:-------------------------:|
 ![](./public/StarWarsAPI-2.png)  |
-![](./public/StarWars-API-Demo.mov)  |
 
 **Summary**
 
