@@ -16,7 +16,6 @@ import Background from './components/Background';
 
 function App() {
   
-    
     const [starship, setStarship] = useState(null)
     
     const getStarship = async () => {
@@ -33,7 +32,6 @@ function App() {
       setStarship(data)
 
       console.log(data)
-
     }
 
     useEffect(() => {getStarship()}, [])
@@ -68,7 +66,5 @@ function App() {
       </>
     )
 }
-    
-
 
 export default App;
